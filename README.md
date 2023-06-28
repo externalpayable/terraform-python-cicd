@@ -1,4 +1,4 @@
-# CI/CD Pipeline with Terraform and Python
+# terrform-python-cicd
 
 This project provides a CI/CD pipeline implementation that automates the deployment of infrastructure changes using Terraform and Python. The pipeline includes stages for Terraform initialization, planning, Python script execution, testing, artifact management, deployment, and more. The pipeline is designed to work with Jenkins as the CI/CD platform.
 
