@@ -1,0 +1,4 @@
+Jinja2==3.0.2
+boto3==1.18.7
+pytest==6.2.5
+python-terraform==0.15.0
